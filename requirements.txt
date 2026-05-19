@@ -1,0 +1,6 @@
+python-telegram-bot
+instaloader
+pyotp
+aiohttp
+curl_cffi
+requests
